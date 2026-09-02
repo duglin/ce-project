@@ -38,7 +38,7 @@ repositories:
 
 website: "https://cloudevents.io/"
 
-artwork: "https://landscape.cncf.io/logos/cloud-events.svg"
+artwork: "https://github.com/cncf/artwork/blob/main/projects/cloudevents/stacked/color/cloudevents-stacked-color.png?raw=true"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 adopters:
